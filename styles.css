@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url("img/fundo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.caixa-conteudo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.caixa-textos {
+    width: 600px;
+
+}
+
+h2 {
+    color: white;
+    font-weight: 600;
+    font-size: 60px;
+
+}
+
+.texto-starbucks {
+    color: #017143;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+.paragrafo {
+    font-size: 16px;
+    color: #fff;
+
+}
